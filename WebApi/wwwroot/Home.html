@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Home.js" defer></script>
+    <style>
+        button{
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="signlog" style="display:flex">
+
+        <div class="left" style="display:none">
+            <p>email</p>
+            <input required id="email" placeholder="email" type="email" />
+            <p>first name</p>
+            <input required id="firstName" placeholder="first name" />
+            <p>last name</p>
+            <input required id="lastName" placeholder="last name" />
+            <p>password</p>
+            <input required id="password" placeholder="password" type="password" />
+            <br />
+            <button onclick="signIn()">sign in</button>
+        </div>
+
+        <div class="right">
+            <p>email</p>
+            <input required id="logemail" placeholder="email" type="email" />
+            <p>password</p>
+            <input required id="logpassword" placeholder="password" type="password" />
+            <br />
+            <button onclick="LogIn()">Login</button>
+            <br />
+            <button  id="newUser" onclick="newUser()">new user</button>
+        </div>
+
+    </div>
+
+    <div class="succses" style="display:none">succses login ✅</div>
+    <a id="updateLink" href="UpDate.html" style="display :none">Update detailes</a>
+
+
+</body>
+</html>

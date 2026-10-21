@@ -1,0 +1,262 @@
+M:\WebApi\WebApi\WebApi\bin\Debug\net10.0\appsettings.Development.json
+M:\WebApi\WebApi\WebApi\bin\Debug\net10.0\appsettings.json
+M:\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+M:\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.exe
+M:\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.deps.json
+M:\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+M:\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.dll
+M:\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.pdb
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.dll
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.pdb
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+M:\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-h12fgu62l6-h12fgu62l6.gz
+M:\WebApi\WebApi\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-v577b3zwxp-v577b3zwxp.gz
+E:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\appsettings.Development.json
+E:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\appsettings.json
+E:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+E:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+E:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.exe
+E:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.deps.json
+E:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+E:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.dll
+E:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.pdb
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.dll
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.pdb
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
+F:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\appsettings.Development.json
+F:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\appsettings.json
+F:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+F:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+F:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.exe
+F:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.deps.json
+F:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+F:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.dll
+F:\API\WebApi\WebApi\WebApi\bin\Debug\net10.0\WebApi.pdb
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.dll
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.pdb
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-fzjx7xofhr-fzjx7xofhr.gz
+E:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-2bakmomv6e-2bakmomv6e.gz
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-qixm6vuylh-qixm6vuylh.gz
+F:\API\WebApi\WebApi\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-19ovia8oc3-19ovia8oc3.gz
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\appsettings.Development.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\appsettings.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.exe
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.deps.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.dll
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.pdb
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.dll
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.pdb
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-ccw1jirykq-ccw1jirykq.gz
+\\srv1\ex\נוסבכר\פרויקט ראשון\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-ao91j3vie9-ao91j3vie9.gz
+E:\API\פרויקט 1\WebApi\bin\Debug\net10.0\appsettings.Development.json
+E:\API\פרויקט 1\WebApi\bin\Debug\net10.0\appsettings.json
+E:\API\פרויקט 1\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+E:\API\פרויקט 1\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+E:\API\פרויקט 1\WebApi\bin\Debug\net10.0\WebApi.exe
+E:\API\פרויקט 1\WebApi\bin\Debug\net10.0\WebApi.deps.json
+E:\API\פרויקט 1\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+E:\API\פרויקט 1\WebApi\bin\Debug\net10.0\WebApi.dll
+E:\API\פרויקט 1\WebApi\bin\Debug\net10.0\WebApi.pdb
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-ccw1jirykq-ccw1jirykq.gz
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\WebApi.dll
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\WebApi.pdb
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
+E:\API\פרויקט 1\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-nz1qq665dg-nz1qq665dg.gz
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\appsettings.Development.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\appsettings.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.exe
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.deps.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.dll
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.pdb
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-nz1qq665dg-nz1qq665dg.gz
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-ccw1jirykq-ccw1jirykq.gz
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.dll
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.pdb
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+\\srv1\ex\נוסבכר\פרויקט שני\עובד\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\appsettings.Development.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\appsettings.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.exe
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.deps.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.dll
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.pdb
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.dll
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.pdb
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\cu8grr869z-{0}-efa0fhxzhu-efa0fhxzhu.gz
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-r2a6iiadgf-r2a6iiadgf.gz
+J:\handesaim40-4\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-hlqzf5570f-hlqzf5570f.gz
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\appsettings.Development.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\appsettings.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.exe
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.deps.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.dll
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\WebApi.pdb
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.dll
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.pdb
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\rmqtrz32ax-{0}-bklbwdeblu-bklbwdeblu.gz
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-qqb11664j0-qqb11664j0.gz
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-zuo45z0m6u-zuo45z0m6u.gz
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\cu8grr869z-{0}-kzm5buxjmf-kzm5buxjmf.gz
