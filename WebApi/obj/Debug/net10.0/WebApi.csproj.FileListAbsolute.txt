@@ -257,8 +257,6 @@ D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\Web
 D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\ref\WebApi.dll
 D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
 D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\rmqtrz32ax-{0}-bklbwdeblu-bklbwdeblu.gz
-D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-qqb11664j0-qqb11664j0.gz
-D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-zuo45z0m6u-zuo45z0m6u.gz
 D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\cu8grr869z-{0}-kzm5buxjmf-kzm5buxjmf.gz
 F:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\appsettings.Development.json
 F:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\appsettings.json
@@ -298,3 +296,8 @@ F:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\Web
 F:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\ref\WebApi.dll
 F:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-le2ga61w4z-le2ga61w4z.gz
 F:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-k0tt8d60kx-k0tt8d60kx.gz
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\bin\Debug\net10.0\zxcvbn-core.dll
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.csproj.AssemblyReference.cache
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\WebApi.sourcelink.json
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-le2ga61w4z-le2ga61w4z.gz
+D:\יד\API\אסתי בוחבוט ואפרת מדן\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-to6uz37g17-to6uz37g17.gz

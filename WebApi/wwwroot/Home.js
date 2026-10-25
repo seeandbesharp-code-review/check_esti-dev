@@ -28,7 +28,7 @@
 }
 const signIn =async() => {
     try {
-        checkPassword()
+        await checkPassword()
         const progress = document.querySelector("#passwordProgress")
         if (progress.value < 3) {
             return
