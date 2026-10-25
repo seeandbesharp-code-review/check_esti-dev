@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-
+using Zxcvbn;
 namespace WebApi
 {
     public class User

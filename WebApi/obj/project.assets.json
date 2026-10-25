@@ -1,11 +1,46 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "zxcvbn-core/7.0.92": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/zxcvbn-core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/zxcvbn-core.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "zxcvbn-core/7.0.92": {
+      "sha512": "3CKGKJe4SnFrks38EuF4iq1DT6IqsyNu/zMQp9GOpaipb7qdZndjjTXQa1/dkNh/OoxD0/aTcIBrRrbD4ALeGQ==",
+      "type": "package",
+      "path": "zxcvbn-core/7.0.92",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "lib/net451/zxcvbn-core.dll",
+        "lib/net451/zxcvbn-core.xml",
+        "lib/netstandard1.3/zxcvbn-core.dll",
+        "lib/netstandard1.3/zxcvbn-core.xml",
+        "lib/netstandard2.0/zxcvbn-core.dll",
+        "lib/netstandard2.0/zxcvbn-core.xml",
+        "zxcvbn-core.7.0.92.nupkg.sha512",
+        "zxcvbn-core.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "zxcvbn-core >= 7.0.92"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\User\\.nuget\\packages\\": {},
@@ -58,6 +93,12 @@
       "net10.0": {
         "framework": "net10.0",
         "targetAlias": "net10.0",
+        "dependencies": {
+          "zxcvbn-core": {
+            "target": "Package",
+            "version": "[7.0.92, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

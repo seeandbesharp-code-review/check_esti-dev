@@ -23,6 +23,10 @@
             <p>password</p>
             <input required id="password" placeholder="password" type="password" />
             <br />
+            <button onclick="checkPassword()">check password strength</button>
+            <br />
+            <progress id="passwordProgress" value="0" max="4"></progress>
+            <br />
             <button onclick="signIn()">sign in</button>
         </div>
 
@@ -34,7 +38,7 @@
             <br />
             <button onclick="LogIn()">Login</button>
             <br />
-            <button  id="newUser" onclick="newUser()">new user</button>
+            <button id="newUser" onclick="newUser()">new user</button>
         </div>
 
     </div>
