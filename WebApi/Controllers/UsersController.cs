@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Runtime.Intrinsics.Arm;
+//fix: Removed "using System.Runtime.Intrinsics.Arm;" - it was added by mistake and is not used
 using System.Text.Json;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -12,7 +12,8 @@ namespace WebApi.Controllers
 
     public class UsersController : ControllerBase
     {
-        static string FilePath = "Users.txt";
+        //fix: The path never changes, so it can be readonly
+        static readonly string FilePath = "Users.txt";
         // GET: api/<UsersController>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -52,6 +53,7 @@ namespace WebApi.Controllers
         }
 
 
+        //The assignment asks a wrong login to return NoContent() (204)
         [HttpPost("login")]
         public ActionResult<User> Login([FromBody] LogUser loginUser)
         {
@@ -76,6 +78,7 @@ namespace WebApi.Controllers
 
         // PUT api/<UsersController>/5
         [HttpPut("{id}")]
+        //The assignment asks PUT to return Ok(): change void to IActionResult and return Ok() at the end
         public void Put(int id,[FromBody] User userPut)
         {
             string textToReplace = string.Empty;
@@ -86,11 +89,17 @@ namespace WebApi.Controllers
                 {
                     User user = JsonSerializer.Deserialize<User>(currentUserInFile);
                     if (user.Id == id)
+                    {
                         textToReplace = currentUserInFile;
+                        //fix: Found- break
+                        break;
+                    }
                 }
             }
             if (textToReplace != string.Empty)
             {
+                //fix: Keep the id, otherwise the updated user is saved without it
+                userPut.Id = id;
                 string text = System.IO.File.ReadAllText(FilePath);
                 text = text.Replace(textToReplace, JsonSerializer.Serialize(userPut));
                 System.IO.File.WriteAllText(FilePath, text);
